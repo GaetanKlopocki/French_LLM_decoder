@@ -4,7 +4,7 @@ This repository contains the training and inference code for a **decoder-only LL
 
 **The model's lightweight architecture allows it to be trained on a single Colab GPU** (free-tier T4, ~16 GB VRAM). After around 40,000 epochs, it is already able to produce sentences with readable syntax and vocabulary relevant to the prompt's context.
 
-**A pre-trained model is available for inference testing.** It was trained for 60,000 epochs (~15 hours on a T4 Colab GPU).
+**A pre-trained model is available for inference testing.** It was trained for 60,000 epochs (~15 hours on a T4 Colab GPU). The model is accessible on Hugging Face: [GaetanKlopocki/French_LLM_decoder on Hugging Face](https://huggingface.co/GaetanKlopocki/French_LLM_decoder).
 
 **You can also train the model yourself.** When training on Google Colab, progress can be saved to Google Drive so you can pause and resume training later.
 
@@ -61,6 +61,7 @@ Open `French_LLM_Decoder_inference.ipynb` (locally or via the Colab button above
 ## 🔗 Resources
 
 - Dataset: [angeluriot/French_instruct](https://github.com/angeluriot/French_instruct)
+- - Pre-trained model: [GaetanKlopocki/French_LLM_decoder on Hugging Face](https://huggingface.co/GaetanKlopocki/French_LLM_decoder)
 
 ## 📄 License
 
