@@ -61,7 +61,7 @@ Open `French_LLM_Decoder_inference.ipynb` (locally or via the Colab button above
 ## 🔗 Resources
 
 - Dataset: [angeluriot/French_instruct](https://github.com/angeluriot/French_instruct)
-- - Pre-trained model: [GaetanKlopocki/French_LLM_decoder on Hugging Face](https://huggingface.co/GaetanKlopocki/French_LLM_decoder)
+- Pre-trained model: [GaetanKlopocki/French_LLM_decoder on Hugging Face](https://huggingface.co/GaetanKlopocki/French_LLM_decoder)
 
 ## 📄 License
 
